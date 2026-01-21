@@ -1,114 +1,109 @@
+# 🚀 Framework CALMS
 
-# Framework CALMS
-
-## O que é o Framework CALMS?
+## ❓ O que é o Framework CALMS?
 O **Framework CALMS** é um **modelo de maturidade para DevOps** que ajuda a compreender:
-- como a cultura DevOps pode ser aplicada na organização;
-- como essa adoção contribui para **maior eficiência, qualidade e previsibilidade** no trabalho.
+- 🔍 como a cultura DevOps pode ser aplicada na organização;
+- 📈 como essa adoção contribui para **maior eficiência, qualidade e previsibilidade** no trabalho.
 
 ---
 
-## Framework CALMS
+## 🧭 Framework CALMS
 
-- **C — Cultura**  
+- **🤝 C — Cultura**  
   Colaboração, empatia e responsabilidade compartilhada.
 
-- **A — Automação**  
+- **⚙️ A — Automação**  
   Automação de processos, Integração Contínua (CI) e Entrega Contínua (CD).
 
-- **L — Lean (Fatiar)**  
+- **✂️ L — Lean (Fatiar)**  
   Gestão ágil, melhoria contínua e foco na entrega de valor.
 
-- **M — Medição**  
+- **📊 M — Medição**  
   Medição de desempenho, qualidade e eficiência por meio de métricas objetivas.
 
-- **S — Compartilhamento**  
+- **🔄 S — Compartilhamento**  
   Compartilhamento de conhecimento, experiências e melhores práticas.
 
 ---
 
-# Security as Enabler com o Framework CALMS
+# 🔐 Security as Enabler com o Framework CALMS
 
 Podemos utilizar o **Framework CALMS** como base para viabilizar *Security as Enabler*, criando **guardrails técnicos, culturais e operacionais** que permitem autonomia com segurança.
 
-O CALMS se encaixa de forma natural no princípio:
-> “Confiamos nas pessoas, mas desenhamos o sistema para que o erro humano não quebre a empresa.”
-
-
-**Guardrails** são **limites técnicos e operacionais pré-definidos** que orientam e protegem o time, permitindo autonomia **sem comprometer segurança, estabilidade ou compliance**.
+> 🛡️ “Confiamos nas pessoas, mas desenhamos o sistema para que o erro humano não quebre a empresa.”
 
 ---
 
+**🧱 Guardrails** são **limites técnicos e operacionais pré-definidos** que orientam e protegem o time, permitindo autonomia **sem comprometer segurança, estabilidade ou compliance**.
 
+---
 
-## Framework CALMS aplicado à Segurança
+## 🧩 Framework CALMS aplicado à Segurança
 
-### **C — Cultura**
+### 🤝 **C — Cultura**
 Segurança como **responsabilidade compartilhada**, não como função isolada.
 
-- Segurança integrada à engenharia desde o design
-- Postura *blameless* para erros e incidentes
-- Colaboração contínua entre times de produto, engenharia e segurança
+- 🔐 Segurança integrada à engenharia desde o design  
+- 🧠 Postura *blameless* para erros e incidentes  
+- 🤜🤛 Colaboração contínua entre times de produto, engenharia e segurança  
 
-**Guardrail cultural:** decisões seguras por padrão, guiadas por consenso técnico.
+**🧭 Guardrail cultural:** decisões seguras por padrão, guiadas por consenso técnico.
 
 ---
 
-### **A — Automação**
+### ⚙️ **A — Automação**
 Segurança precisa escalar junto com o delivery.
 
-- SAST, DAST e SCA integrados ao CI/CD
-- Policies as Code (IAM, Cloud, Kubernetes)
-- Bloqueios automáticos apenas para riscos críticos e reais
+- 🧪 SAST, DAST e SCA integrados ao CI/CD  
+- 📜 Policies as Code (IAM, Cloud, Kubernetes)  
+- 🚦 Bloqueios automáticos apenas para riscos críticos e reais  
 
-**Guardrail técnico:** o pipeline impede caminhos inseguros por default.
+**🛠️ Guardrail técnico:** o pipeline impede caminhos inseguros por default.
 
 ---
 
-### **L — Lean (Fatiar)**
+### ✂️ **L — Lean (Fatiar)**
 Redução de risco por meio de mudanças pequenas e controladas.
 
-- Entregas incrementais com blast radius limitado
-- Priorização por risco e impacto
-- Correções contínuas e rápidas
+- 📦 Entregas incrementais com *blast radius* limitado  
+- 🎯 Priorização por risco e impacto  
+- 🔁 Correções contínuas e rápidas  
 
-**Guardrail operacional:** erros pequenos geram impactos pequenos.
+**⚖️ Guardrail operacional:** erros pequenos geram impactos pequenos.
 
 ---
 
-### **M — Medição**
+### 📊 **M — Medição**
 Segurança orientada a dados, não a percepção.
 
-- MTTR de incidentes de segurança
-- Percentual de falhas detectadas no pipeline vs produção
-- Lead time para correção de vulnerabilidades
+- ⏱️ MTTR de incidentes de segurança  
+- 📉 Percentual de falhas detectadas no pipeline vs produção  
+- 🛠️ Lead time para correção de vulnerabilidades  
 
-**Guardrail de governança:** métricas sustentam decisões técnicas e de negócio.
+**📐 Guardrail de governança:** métricas sustentam decisões técnicas e de negócio.
 
 ---
 
-### **S — Compartilhamento**
+### 🔄 **S — Compartilhamento**
 Conhecimento reduz erro humano.
 
-- Playbooks de resposta a incidentes
-- Boas práticas documentadas e reutilizáveis
-- Security Champions nos times
+- 📘 Playbooks de resposta a incidentes  
+- 📚 Boas práticas documentadas e reutilizáveis  
+- 🦸 Security Champions nos times  
 
-**Guardrail humano:** times sabem como agir antes que o problema escale.
+**🧠 Guardrail humano:** times sabem como agir antes que o problema escale.
 
 ---
 
-## Resumo Executivo
+## 📌 Resumo Executivo
 O Framework CALMS transforma segurança em **camada estrutural do sistema**, habilitando velocidade, previsibilidade e confiança.
 
-Security as Enabler não trava o time — **cria os limites certos para inovar com segurança**.
-
-
-
+🚀 *Security as Enabler* não trava o time — **cria os limites certos para inovar com segurança**.
 
 ---
 
-## Referências do Framework CALMS
+## 📚 Referências do Framework CALMS
+
 
 ### 1. Livro: *The DevOps Handbook*
 - **Título completo:**  
